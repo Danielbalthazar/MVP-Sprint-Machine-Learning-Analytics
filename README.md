@@ -21,7 +21,7 @@ Este é um problema de **classificação binária supervisionada**, e o objetivo
 1. **Definição do Problema**: Entendimento do desafio de negócio e formulação das hipóteses.
 2. **Análise Exploratória de Dados (EDA)**: Identificação de padrões, correlações e comportamentos chave no dataset.
 3. **Pré-processamento de Dados**:
-   - Tratamento de outliers e valores ausentes;
+   - Tratamento de outliers;
    - Codificação de variáveis categóricas;
    - Normalização de dados e balanceamento das classes.
 4. **Modelagem e Avaliação**:
