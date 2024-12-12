@@ -4,7 +4,10 @@ Bem-vindo ao repositório do projeto **MVP Sprint 3: Machine Learning Analytics*
 Este projeto tem como objetivo prever o comportamento de clientes em relação à assinatura de um produto bancário específico, utilizando técnicas de machine learning e análise de dados. O foco está na aplicação prática de algoritmos de classificação para gerar insights e soluções de negócio.
 
 ---
+## **Link para o Notebook**
 
+Acesse o notebook completo com todas as análises, gráficos e explicações no [Google Colab](https://colab.research.google.com/github/Danielbalthazar/MVP-Sprint-Machine-Learning-Analytics/blob/main/MVP_Machine_Learning_Analytics.ipynb).
+---
 ## **Descrição do Problema**
 
 O problema envolve prever se um cliente irá ou não realizar a assinatura de um depósito a prazo, com base em variáveis como:
@@ -42,18 +45,8 @@ Este é um problema de **classificação binária supervisionada**, e o objetivo
 
 ---
 
-## **Link para o Notebook**
-
-Acesse o notebook completo com todas as análises, gráficos e explicações no [Google Colab](https://colab.research.google.com/github/Danielbalthazar/MVP-Sprint-Machine-Learning-Analytics/blob/main/MVP_Machine_Learning_Analytics.ipynb).
-
----
-
 ## **Principais Resultados**
 
 - Identificação das variáveis mais relevantes para a decisão do cliente;
 - Construção de um modelo preditivo com alta performance para o problema de classificação;
 - Recomendações práticas para melhorar campanhas de marketing e direcionar esforços com maior eficiência.
-
----
-# MVP-Sprint-Machine-Learning-Analytics
-https://colab.research.google.com/github/Danielbalthazar/MVP-Sprint-Machine-Learning-Analytics/blob/main/MVP_Machine_Learning_Analytics.ipynb
