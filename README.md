@@ -8,7 +8,7 @@ Este projeto tem como objetivo prever o comportamento de clientes em relação �
 ---
 ## **Link para o Notebook**
 
-Acesse o notebook completo com todas as análises, gráficos e explicações no [![Open In Colab](https://colab.research.google.com/github/Danielbalthazar/MVP-Sprint-Machine-Learning-Analytics/blob/main/MVP_Machine_Learning_Analytics.ipynb)
+Acesse o notebook completo com todas as análises, gráficos e explicações no [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Danielbalthazar/MVP-Sprint-Machine-Learning-Analytics/blob/main/MVP_Machine_Learning_Analytics.ipynb)
 
 ---
 ## **Descrição do Problema**
