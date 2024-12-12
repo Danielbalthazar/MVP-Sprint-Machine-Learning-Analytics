@@ -1,5 +1,7 @@
 # **MVP Sprint 3: Machine Learning Analytics**
 
+**Nome: Daniel Balthazar**
+
 Bem-vindo ao repositório do projeto **MVP Sprint 3: Machine Learning Analytics**!
 Este projeto tem como objetivo prever o comportamento de clientes em relação à assinatura de um produto bancário específico, utilizando técnicas de machine learning e análise de dados. O foco está na aplicação prática de algoritmos de classificação para gerar insights e soluções de negócio.
 
